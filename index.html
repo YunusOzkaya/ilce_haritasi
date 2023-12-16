@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İlçe Haritası</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="ilce.js" defer></script>
+</head>
+<body>
+
+<h1>İlçe Haritası</h1>
+
+<label for="iller">İl Seçin:</label>
+<select id="iller"></select>
+
+<label for="ilceler">İlçe Seçin:</label>
+<select id="ilceler"></select>
+
+<div id="harita-container">
+  <svg id="harita" width="750" height="750"></svg>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3391 @@
+{
+    "Adana": {
+        "Ilceler": [
+            "Adana",
+            "Çukurova",
+            "Sarıçam",
+            "Seyhan",
+            "Yüreğir"
+        ]
+    },
+    "Karaisalı": {
+        "Ilceler": [
+            "Karaisalı"
+        ]
+    },
+    "Karataş": {
+        "Ilceler": [
+            "Karataş"
+        ]
+    },
+    "Adıyaman": {
+        "Ilceler": [
+            "Adıyaman",
+            "Çelikhan",
+            "Samsat"
+        ]
+    },
+    "Besni": {
+        "Ilceler": [
+            "Besni"
+        ]
+    },
+    "Gerger": {
+        "Ilceler": [
+            "Gerger"
+        ]
+    },
+    "Gölbaşı (Adıyaman)": {
+        "Ilceler": [
+            "Gölbaşı (Adıyaman)",
+            "Tut"
+        ]
+    },
+    "Kâhta": {
+        "Ilceler": [
+            "Kâhta",
+            "Sincik"
+        ]
+    },
+    "Afyonkarahisar": {
+        "Ilceler": [
+            "Afyonkarahisar",
+            "Çobanlar",
+            "İhsaniye"
+        ]
+    },
+    "İscehisar": {
+        "Ilceler": [
+            "İscehisar",
+            "Bayat\n(Afyonkarahisar)"
+        ]
+    },
+    "Sandıklı": {
+        "Ilceler": [
+            "Sandıklı",
+            "Evciler",
+            "Hocalar",
+            "Kızılören"
+        ]
+    },
+    "Sinanpaşa": {
+        "Ilceler": [
+            "Sinanpaşa"
+        ]
+    },
+    "Şuhut": {
+        "Ilceler": [
+            "Şuhut"
+        ]
+    },
+    "Ağrı": {
+        "Ilceler": [
+            "Ağrı",
+            "Hamur"
+        ]
+    },
+    "Eleşkirt": {
+        "Ilceler": [
+            "Eleşkirt"
+        ]
+    },
+    "Taşlıçay": {
+        "Ilceler": [
+            "Taşlıçay"
+        ]
+    },
+    "Akhisar": {
+        "Ilceler": [
+            "Akhisar",
+            "Gölmarmara"
+        ]
+    },
+    "Gördes": {
+        "Ilceler": [
+            "Gördes"
+        ]
+    },
+    "Kırkağaç": {
+        "Ilceler": [
+            "Kırkağaç"
+        ]
+    },
+    "Soma": {
+        "Ilceler": [
+            "Soma"
+        ]
+    },
+    "Aksaray": {
+        "Ilceler": [
+            "Aksaray",
+            "Gülağaç",
+            "Güzelyurt"
+        ]
+    },
+    "Eskil": {
+        "Ilceler": [
+            "Eskil"
+        ]
+    },
+    "Ortaköy (Aksaray)": {
+        "Ilceler": [
+            "Ortaköy (Aksaray)",
+            "Ağaçören"
+        ]
+    },
+    "Şereflikoçhisar": {
+        "Ilceler": [
+            "Şereflikoçhisar",
+            "Evren",
+            "Sarıyahşi"
+        ]
+    },
+    "Akşehir": {
+        "Ilceler": [
+            "Akşehir",
+            "Tuzlukçu"
+        ]
+    },
+    "Doğanhisar": {
+        "Ilceler": [
+            "Doğanhisar"
+        ]
+    },
+    "Ilgın": {
+        "Ilceler": [
+            "Ilgın"
+        ]
+    },
+    "Yunak": {
+        "Ilceler": [
+            "Yunak",
+            "Çeltik"
+        ]
+    },
+    "Alanya": {
+        "Ilceler": [
+            "Alanya"
+        ]
+    },
+    "Gazipaşa": {
+        "Ilceler": [
+            "Gazipaşa"
+        ]
+    },
+    "Alaşehir": {
+        "Ilceler": [
+            "Alaşehir"
+        ]
+    },
+    "Sarıgöl": {
+        "Ilceler": [
+            "Sarıgöl"
+        ]
+    },
+    "Amasya": {
+        "Ilceler": [
+            "Amasya",
+            "Göynücek"
+        ]
+    },
+    "Gümüşhacıköy": {
+        "Ilceler": [
+            "Gümüşhacıköy",
+            "Hamamözü"
+        ]
+    },
+    "Merzifon": {
+        "Ilceler": [
+            "Merzifon"
+        ]
+    },
+    "Suluova": {
+        "Ilceler": [
+            "Suluova"
+        ]
+    },
+    "Taşova": {
+        "Ilceler": [
+            "Taşova"
+        ]
+    },
+    "Ankara": {
+        "Ilceler": [
+            "Ankara",
+            "Altındağ",
+            "Çankaya",
+            "Keçiören",
+            "Mamak",
+            "Pursaklar",
+            "Yenimahalle"
+        ]
+    },
+    "Akyurt": {
+        "Ilceler": [
+            "Akyurt"
+        ]
+    },
+    "Balâ": {
+        "Ilceler": [
+            "Balâ"
+        ]
+    },
+    "Çubuk": {
+        "Ilceler": [
+            "Çubuk"
+        ]
+    },
+    "Elmadağ": {
+        "Ilceler": [
+            "Elmadağ"
+        ]
+    },
+    "Gölbaşı (Ankara)": {
+        "Ilceler": [
+            "Gölbaşı (Ankara)"
+        ]
+    },
+    "Haymana": {
+        "Ilceler": [
+            "Haymana"
+        ]
+    },
+    "Kalecik": {
+        "Ilceler": [
+            "Kalecik"
+        ]
+    },
+    "Polatlı": {
+        "Ilceler": [
+            "Polatlı"
+        ]
+    },
+    "Ankara Batı": {
+        "Ilceler": [
+            "Ankara Batı",
+            "Ayaş",
+            "Etimesgut"
+        ]
+    },
+    "Beypazarı": {
+        "Ilceler": [
+            "Beypazarı",
+            "Güdül"
+        ]
+    },
+    "Kahramankazan": {
+        "Ilceler": [
+            "Kahramankazan"
+        ]
+    },
+    "Kızılcahamam": {
+        "Ilceler": [
+            "Kızılcahamam",
+            "Çamlıdere"
+        ]
+    },
+    "Nallıhan": {
+        "Ilceler": [
+            "Nallıhan"
+        ]
+    },
+    "Antalya": {
+        "Ilceler": [
+            "Antalya",
+            "Aksu (Antalya)",
+            "Döşemealtı",
+            "Kepez",
+            "Konyaaltı",
+            "Muratpaşa"
+        ]
+    },
+    "Kemer": {
+        "Ilceler": [
+            "Kemer"
+        ]
+    },
+    "Korkuteli": {
+        "Ilceler": [
+            "Korkuteli"
+        ]
+    },
+    "Ardahan": {
+        "Ilceler": [
+            "Ardahan",
+            "Çıldır"
+        ]
+    },
+    "Göle": {
+        "Ilceler": [
+            "Göle"
+        ]
+    },
+    "Hanak": {
+        "Ilceler": [
+            "Hanak",
+            "Damal"
+        ]
+    },
+    "Posof": {
+        "Ilceler": [
+            "Posof"
+        ]
+    },
+    "Artvin": {
+        "Ilceler": [
+            "Artvin",
+            "Ardanuç"
+        ]
+    },
+    "Arhavi": {
+        "Ilceler": [
+            "Arhavi"
+        ]
+    },
+    "Borçka": {
+        "Ilceler": [
+            "Borçka",
+            "Murgul"
+        ]
+    },
+    "Hopa": {
+        "Ilceler": [
+            "Hopa"
+        ]
+    },
+    "Şavşat": {
+        "Ilceler": [
+            "Şavşat"
+        ]
+    },
+    "Yusufeli": {
+        "Ilceler": [
+            "Yusufeli"
+        ]
+    },
+    "Aydın": {
+        "Ilceler": [
+            "Aydın",
+            "Efeler",
+            "İncirliova",
+            "Koçarlı",
+            "Köşk"
+        ]
+    },
+    "Çine": {
+        "Ilceler": [
+            "Çine",
+            "Karpuzlu"
+        ]
+    },
+    "Germencik": {
+        "Ilceler": [
+            "Germencik"
+        ]
+    },
+    "Bafra": {
+        "Ilceler": [
+            "Bafra",
+            "2023-05-19T00:00:00"
+        ]
+    },
+    "Alaçam": {
+        "Ilceler": [
+            "Alaçam",
+            "Yakakent"
+        ]
+    },
+    "Bakırköy": {
+        "Ilceler": [
+            "Bakırköy",
+            "Bağcılar",
+            "Bahçelievler",
+            "Esenler",
+            "Güngören",
+            "Zeytinburnu"
+        ]
+    },
+    "Büyükçekmece": {
+        "Ilceler": [
+            "Büyükçekmece",
+            "Beylikdüzü",
+            "Esenyurt"
+        ]
+    },
+    "Küçükçekmece": {
+        "Ilceler": [
+            "Küçükçekmece",
+            "Avcılar",
+            "Başakşehir"
+        ]
+    },
+    "Balıkesir": {
+        "Ilceler": [
+            "Balıkesir",
+            "Altıeylül",
+            "Karesi"
+        ]
+    },
+    "Bigadiç": {
+        "Ilceler": [
+            "Bigadiç"
+        ]
+    },
+    "Dursunbey": {
+        "Ilceler": [
+            "Dursunbey"
+        ]
+    },
+    "İvrindi": {
+        "Ilceler": [
+            "İvrindi",
+            "Balya"
+        ]
+    },
+    "Kepsut": {
+        "Ilceler": [
+            "Kepsut"
+        ]
+    },
+    "Savaştepe": {
+        "Ilceler": [
+            "Savaştepe"
+        ]
+    },
+    "Sındırgı": {
+        "Ilceler": [
+            "Sındırgı"
+        ]
+    },
+    "Susurluk": {
+        "Ilceler": [
+            "Susurluk"
+        ]
+    },
+    "Bandırma": {
+        "Ilceler": [
+            "Bandırma"
+        ]
+    },
+    "Erdek": {
+        "Ilceler": [
+            "Erdek"
+        ]
+    },
+    "Gönen": {
+        "Ilceler": [
+            "Gönen"
+        ]
+    },
+    "Manyas": {
+        "Ilceler": [
+            "Manyas"
+        ]
+    },
+    "Marmara": {
+        "Ilceler": [
+            "Marmara"
+        ]
+    },
+    "Bartın": {
+        "Ilceler": [
+            "Bartın"
+        ]
+    },
+    "Amasra": {
+        "Ilceler": [
+            "Amasra",
+            "Kurucaşile"
+        ]
+    },
+    "Ulus": {
+        "Ilceler": [
+            "Ulus"
+        ]
+    },
+    "Batman": {
+        "Ilceler": [
+            "Batman",
+            "Beşiri",
+            "Hasankeyf"
+        ]
+    },
+    "Kozluk": {
+        "Ilceler": [
+            "Kozluk"
+        ]
+    },
+    "Sason": {
+        "Ilceler": [
+            "Sason"
+        ]
+    },
+    "Bayburt": {
+        "Ilceler": [
+            "Bayburt",
+            "Aydıntepe",
+            "Demirözü"
+        ]
+    },
+    "Bergama": {
+        "Ilceler": [
+            "Bergama"
+        ]
+    },
+    "Dikili": {
+        "Ilceler": [
+            "Dikili"
+        ]
+    },
+    "Kınık": {
+        "Ilceler": [
+            "Kınık"
+        ]
+    },
+    "Bilecik": {
+        "Ilceler": [
+            "Bilecik"
+        ]
+    },
+    "Bozüyük": {
+        "Ilceler": [
+            "Bozüyük",
+            "İnönü",
+            "Pazaryeri"
+        ]
+    },
+    "Gölpazarı": {
+        "Ilceler": [
+            "Gölpazarı",
+            "Yenipazar (Bilecik)"
+        ]
+    },
+    "Osmaneli": {
+        "Ilceler": [
+            "Osmaneli"
+        ]
+    },
+    "Söğüt": {
+        "Ilceler": [
+            "Söğüt",
+            "İnhisar"
+        ]
+    },
+    "Bingöl": {
+        "Ilceler": [
+            "Bingöl"
+        ]
+    },
+    "Genç": {
+        "Ilceler": [
+            "Genç"
+        ]
+    },
+    "Karlıova": {
+        "Ilceler": [
+            "Karlıova",
+            "Yedisu"
+        ]
+    },
+    "Kiğı": {
+        "Ilceler": [
+            "Kiğı",
+            "Adaklı"
+        ]
+    },
+    "Solhan": {
+        "Ilceler": [
+            "Solhan"
+        ]
+    },
+    "Bitlis": {
+        "Ilceler": [
+            "Bitlis"
+        ]
+    },
+    "Adilcevaz": {
+        "Ilceler": [
+            "Adilcevaz"
+        ]
+    },
+    "Ahlat": {
+        "Ilceler": [
+            "Ahlat"
+        ]
+    },
+    "Güroymak": {
+        "Ilceler": [
+            "Güroymak"
+        ]
+    },
+    "Hizan": {
+        "Ilceler": [
+            "Hizan"
+        ]
+    },
+    "Mutki": {
+        "Ilceler": [
+            "Mutki"
+        ]
+    },
+    "Tatvan": {
+        "Ilceler": [
+            "Tatvan"
+        ]
+    },
+    "Bodrum": {
+        "Ilceler": [
+            "Bodrum"
+        ]
+    },
+    "Milâs": {
+        "Ilceler": [
+            "Milâs"
+        ]
+    },
+    "Boğazlıyan": {
+        "Ilceler": [
+            "Boğazlıyan",
+            "Yenifakılı"
+        ]
+    },
+    "Çayıralan": {
+        "Ilceler": [
+            "Çayıralan",
+            "Çandır"
+        ]
+    },
+    "Sarıkaya": {
+        "Ilceler": [
+            "Sarıkaya"
+        ]
+    },
+    "Bolu": {
+        "Ilceler": [
+            "Bolu",
+            "Kıbrıscık",
+            "Seben"
+        ]
+    },
+    "Gerede": {
+        "Ilceler": [
+            "Gerede",
+            "Dörtdivan",
+            "Yeniçağa"
+        ]
+    },
+    "Göynük": {
+        "Ilceler": [
+            "Göynük"
+        ]
+    },
+    "Mengen": {
+        "Ilceler": [
+            "Mengen"
+        ]
+    },
+    "Mudurnu": {
+        "Ilceler": [
+            "Mudurnu"
+        ]
+    },
+    "Bolvadin": {
+        "Ilceler": [
+            "Bolvadin"
+        ]
+    },
+    "Çay": {
+        "Ilceler": [
+            "Çay",
+            "Sultandağı"
+        ]
+    },
+    "Emirdağ": {
+        "Ilceler": [
+            "Emirdağ"
+        ]
+    },
+    "Boyabat": {
+        "Ilceler": [
+            "Boyabat",
+            "Saraydüzü"
+        ]
+    },
+    "Durağan": {
+        "Ilceler": [
+            "Durağan"
+        ]
+    },
+    "Burdur": {
+        "Ilceler": [
+            "Burdur",
+            "Ağlasun",
+            "Kemer (Burdur)"
+        ]
+    },
+    "Bucak": {
+        "Ilceler": [
+            "Bucak",
+            "Çeltikçi"
+        ]
+    },
+    "Gölhisar": {
+        "Ilceler": [
+            "Gölhisar",
+            "Altınyayla (Burdur)",
+            "Çavdır"
+        ]
+    },
+    "Tefenni": {
+        "Ilceler": [
+            "Tefenni",
+            "Karamanlı"
+        ]
+    },
+    "Yeşilova": {
+        "Ilceler": [
+            "Yeşilova"
+        ]
+    },
+    "Burhaniye": {
+        "Ilceler": [
+            "Burhaniye",
+            "Gömeç"
+        ]
+    },
+    "Ayvalık": {
+        "Ilceler": [
+            "Ayvalık"
+        ]
+    },
+    "Edremit": {
+        "Ilceler": [
+            "Edremit",
+            "Havran"
+        ]
+    },
+    "Bursa": {
+        "Ilceler": [
+            "Bursa",
+            "Gürsu",
+            "Kestel",
+            "Nilüfer",
+            "Osmangazi",
+            "Yıldırım"
+        ]
+    },
+    "Gemlik": {
+        "Ilceler": [
+            "Gemlik",
+            "Armutlu"
+        ]
+    },
+    "Karacabey": {
+        "Ilceler": [
+            "Karacabey"
+        ]
+    },
+    "Keles": {
+        "Ilceler": [
+            "Keles"
+        ]
+    },
+    "Mudanya": {
+        "Ilceler": [
+            "Mudanya"
+        ]
+    },
+    "Mustafakemalpaşa": {
+        "Ilceler": [
+            "Mustafakemalpaşa"
+        ]
+    },
+    "Orhaneli": {
+        "Ilceler": [
+            "Orhaneli",
+            "Büyükorhan"
+        ]
+    },
+    "Orhangazi": {
+        "Ilceler": [
+            "Orhangazi"
+        ]
+    },
+    "Ceyhan": {
+        "Ilceler": [
+            "Ceyhan"
+        ]
+    },
+    "Yumurtalık": {
+        "Ilceler": [
+            "Yumurtalık"
+        ]
+    },
+    "Cizre": {
+        "Ilceler": [
+            "Cizre",
+            "Güçlükonak"
+        ]
+    },
+    "Silopi": {
+        "Ilceler": [
+            "Silopi"
+        ]
+    },
+    "Çanakkale": {
+        "Ilceler": [
+            "Çanakkale",
+            "Eceabat"
+        ]
+    },
+    "Ayvacık": {
+        "Ilceler": [
+            "Ayvacık"
+        ]
+    },
+    "Bayramiç": {
+        "Ilceler": [
+            "Bayramiç"
+        ]
+    },
+    "Biga": {
+        "Ilceler": [
+            "Biga"
+        ]
+    },
+    "Çan": {
+        "Ilceler": [
+            "Çan"
+        ]
+    },
+    "Ezine": {
+        "Ilceler": [
+            "Ezine",
+            "Bozcaada"
+        ]
+    },
+    "Gelibolu": {
+        "Ilceler": [
+            "Gelibolu"
+        ]
+    },
+    "Gökçeada": {
+        "Ilceler": [
+            "Gökçeada"
+        ]
+    },
+    "Lâpseki": {
+        "Ilceler": [
+            "Lâpseki"
+        ]
+    },
+    "Yenice (Çanakkale)": {
+        "Ilceler": [
+            "Yenice (Çanakkale)"
+        ]
+    },
+    "Çankırı": {
+        "Ilceler": [
+            "Çankırı",
+            "Eldivan",
+            "Kızılırmak",
+            "Korgun",
+            "Yapraklı"
+        ]
+    },
+    "Ilgaz": {
+        "Ilceler": [
+            "Ilgaz"
+        ]
+    },
+    "Kurşunlu": {
+        "Ilceler": [
+            "Kurşunlu",
+            "Atkaracalar",
+            "Bayramören"
+        ]
+    },
+    "Şabanözü": {
+        "Ilceler": [
+            "Şabanözü",
+            "Orta"
+        ]
+    },
+    "Çarşamba": {
+        "Ilceler": [
+            "Çarşamba",
+            "Ayvacık (Çarşamba)",
+            "Salıpazarı"
+        ]
+    },
+    "Terme": {
+        "Ilceler": [
+            "Terme"
+        ]
+    },
+    "Çorlu": {
+        "Ilceler": [
+            "Çorlu",
+            "Ergene"
+        ]
+    },
+    "Çerkezköy": {
+        "Ilceler": [
+            "Çerkezköy",
+            "Kapaklı"
+        ]
+    },
+    "Saray (Çorlu)": {
+        "Ilceler": [
+            "Saray (Çorlu)"
+        ]
+    },
+    "Çorum": {
+        "Ilceler": [
+            "Çorum",
+            "Mecitözü",
+            "Oğuzlar",
+            "Ortaköy (Çorum)"
+        ]
+    },
+    "Bayat": {
+        "Ilceler": [
+            "Bayat"
+        ]
+    },
+    "İskilip": {
+        "Ilceler": [
+            "İskilip",
+            "Uğurludağ"
+        ]
+    },
+    "Kargı": {
+        "Ilceler": [
+            "Kargı"
+        ]
+    },
+    "Osmancık": {
+        "Ilceler": [
+            "Osmancık",
+            "Dodurga",
+            "Lâçin"
+        ]
+    },
+    "Denizli": {
+        "Ilceler": [
+            "Denizli",
+            "Akköy",
+            "Honaz",
+            "Merkezefendi"
+        ]
+    },
+    "Acıpayam": {
+        "Ilceler": [
+            "Acıpayam",
+            "Serinhisar"
+        ]
+    },
+    "Buldan": {
+        "Ilceler": [
+            "Buldan",
+            "Güney"
+        ]
+    },
+    "Çal": {
+        "Ilceler": [
+            "Çal",
+            "Baklan",
+            "Bekilli"
+        ]
+    },
+    "Çameli": {
+        "Ilceler": [
+            "Çameli"
+        ]
+    },
+    "Çardak": {
+        "Ilceler": [
+            "Çardak",
+            "Bozkurt (Denizli)"
+        ]
+    },
+    "Çivril": {
+        "Ilceler": [
+            "Çivril"
+        ]
+    },
+    "Kale": {
+        "Ilceler": [
+            "Kale",
+            "Beyağaç"
+        ]
+    },
+    "Sarayköy": {
+        "Ilceler": [
+            "Sarayköy",
+            "Babadağ"
+        ]
+    },
+    "Tavas": {
+        "Ilceler": [
+            "Tavas"
+        ]
+    },
+    "Dinar": {
+        "Ilceler": [
+            "Dinar"
+        ]
+    },
+    "Dazkırı": {
+        "Ilceler": [
+            "Dazkırı",
+            "Başmakçı"
+        ]
+    },
+    "Diyarbakır": {
+        "Ilceler": [
+            "Diyarbakır",
+            "Bağlar",
+            "Kayapınar",
+            "Kocaköy",
+            "Sur",
+            "Yenişehir (Diyarbakır)"
+        ]
+    },
+    "Bismil": {
+        "Ilceler": [
+            "Bismil"
+        ]
+    },
+    "Çermik": {
+        "Ilceler": [
+            "Çermik"
+        ]
+    },
+    "Çınar": {
+        "Ilceler": [
+            "Çınar"
+        ]
+    },
+    "Çüngüş": {
+        "Ilceler": [
+            "Çüngüş"
+        ]
+    },
+    "Dicle": {
+        "Ilceler": [
+            "Dicle"
+        ]
+    },
+    "Eğil": {
+        "Ilceler": [
+            "Eğil"
+        ]
+    },
+    "Ergani": {
+        "Ilceler": [
+            "Ergani"
+        ]
+    },
+    "Hani": {
+        "Ilceler": [
+            "Hani"
+        ]
+    },
+    "Hazro": {
+        "Ilceler": [
+            "Hazro"
+        ]
+    },
+    "Kulp": {
+        "Ilceler": [
+            "Kulp"
+        ]
+    },
+    "Lice": {
+        "Ilceler": [
+            "Lice"
+        ]
+    },
+    "Silvan": {
+        "Ilceler": [
+            "Silvan"
+        ]
+    },
+    "Doğubayazıt": {
+        "Ilceler": [
+            "Doğubayazıt"
+        ]
+    },
+    "Diyadin": {
+        "Ilceler": [
+            "Diyadin"
+        ]
+    },
+    "Düzce": {
+        "Ilceler": [
+            "Düzce",
+            "Cumayeri",
+            "Çilimli",
+            "Gölyaka",
+            "Gümüşova",
+            "Kaynaşlı"
+        ]
+    },
+    "Akçakoca": {
+        "Ilceler": [
+            "Akçakoca"
+        ]
+    },
+    "Yığılca": {
+        "Ilceler": [
+            "Yığılca"
+        ]
+    },
+    "Edirne": {
+        "Ilceler": [
+            "Edirne",
+            "Havsa",
+            "Lalapaşa",
+            "Süloğlu"
+        ]
+    },
+    "Enez": {
+        "Ilceler": [
+            "Enez"
+        ]
+    },
+    "İpsala": {
+        "Ilceler": [
+            "İpsala"
+        ]
+    },
+    "Keşan": {
+        "Ilceler": [
+            "Keşan"
+        ]
+    },
+    "Uzunköprü": {
+        "Ilceler": [
+            "Uzunköprü",
+            "Meriç"
+        ]
+    },
+    "Elazığ": {
+        "Ilceler": [
+            "Elazığ",
+            "Baskil",
+            "Sivrice"
+        ]
+    },
+    "Çemişgezek": {
+        "Ilceler": [
+            "Çemişgezek"
+        ]
+    },
+    "Karakoçan": {
+        "Ilceler": [
+            "Karakoçan",
+            "Yayladere"
+        ]
+    },
+    "Keban": {
+        "Ilceler": [
+            "Keban",
+            "Ağın"
+        ]
+    },
+    "Kovancılar": {
+        "Ilceler": [
+            "Kovancılar"
+        ]
+    },
+    "Maden": {
+        "Ilceler": [
+            "Maden",
+            "Alacakaya"
+        ]
+    },
+    "Palu": {
+        "Ilceler": [
+            "Palu",
+            "Arıcak"
+        ]
+    },
+    "Elbistan": {
+        "Ilceler": [
+            "Elbistan",
+            "Ekinözü",
+            "Nurhak"
+        ]
+    },
+    "Afşin": {
+        "Ilceler": [
+            "Afşin"
+        ]
+    },
+    "Göksun": {
+        "Ilceler": [
+            "Göksun"
+        ]
+    },
+    "Elmalı": {
+        "Ilceler": [
+            "Elmalı"
+        ]
+    },
+    "Demre": {
+        "Ilceler": [
+            "Demre"
+        ]
+    },
+    "Finike": {
+        "Ilceler": [
+            "Finike"
+        ]
+    },
+    "Kaş": {
+        "Ilceler": [
+            "Kaş"
+        ]
+    },
+    "Kumluca": {
+        "Ilceler": [
+            "Kumluca"
+        ]
+    },
+    "Erciş": {
+        "Ilceler": [
+            "Erciş"
+        ]
+    },
+    "Çaldıran": {
+        "Ilceler": [
+            "Çaldıran"
+        ]
+    },
+    "Muradiye": {
+        "Ilceler": [
+            "Muradiye"
+        ]
+    },
+    "Ereğli (Konya)": {
+        "Ilceler": [
+            "Ereğli (Konya)",
+            "Halkapınar"
+        ]
+    },
+    "Karapınar": {
+        "Ilceler": [
+            "Karapınar",
+            "Emirgazi"
+        ]
+    },
+    "Ermenek": {
+        "Ilceler": [
+            "Ermenek",
+            "Başyayla"
+        ]
+    },
+    "Sarıveliler": {
+        "Ilceler": [
+            "Sarıveliler"
+        ]
+    },
+    "Erzincan": {
+        "Ilceler": [
+            "Erzincan",
+            "Üzümlü"
+        ]
+    },
+    "Çayırlı": {
+        "Ilceler": [
+            "Çayırlı",
+            "Otlukbeli"
+        ]
+    },
+    "İliç": {
+        "Ilceler": [
+            "İliç"
+        ]
+    },
+    "Kemah": {
+        "Ilceler": [
+            "Kemah"
+        ]
+    },
+    "Kemaliye": {
+        "Ilceler": [
+            "Kemaliye"
+        ]
+    },
+    "Refahiye": {
+        "Ilceler": [
+            "Refahiye"
+        ]
+    },
+    "Tercan": {
+        "Ilceler": [
+            "Tercan"
+        ]
+    },
+    "Erzurum": {
+        "Ilceler": [
+            "Erzurum",
+            "Aziziye",
+            "Palandöken",
+            "Yakutiye"
+        ]
+    },
+    "Aşkale": {
+        "Ilceler": [
+            "Aşkale"
+        ]
+    },
+    "Çat": {
+        "Ilceler": [
+            "Çat"
+        ]
+    },
+    "Horasan": {
+        "Ilceler": [
+            "Horasan"
+        ]
+    },
+    "İspir": {
+        "Ilceler": [
+            "İspir",
+            "Pazaryolu"
+        ]
+    },
+    "Karayazı": {
+        "Ilceler": [
+            "Karayazı"
+        ]
+    },
+    "Pasinler": {
+        "Ilceler": [
+            "Pasinler",
+            "Köprüköy"
+        ]
+    },
+    "Tortum": {
+        "Ilceler": [
+            "Tortum",
+            "Uzundere"
+        ]
+    },
+    "Eskişehir": {
+        "Ilceler": [
+            "Eskişehir",
+            "Mihalgazi",
+            "Odunpazarı",
+            "Seyitgazi",
+            "Tepebaşı"
+        ]
+    },
+    "Beylikova": {
+        "Ilceler": [
+            "Beylikova",
+            "Alpu"
+        ]
+    },
+    "Çifteler": {
+        "Ilceler": [
+            "Çifteler",
+            "Han",
+            "Mahmudiye"
+        ]
+    },
+    "Mihalıççık": {
+        "Ilceler": [
+            "Mihalıççık"
+        ]
+    },
+    "Sivrihisar": {
+        "Ilceler": [
+            "Sivrihisar",
+            "Günyüzü"
+        ]
+    },
+    "Mihalgazi": {
+        "Ilceler": [
+            "Sarıcakaya"
+        ]
+    },
+    "Fethiye": {
+        "Ilceler": [
+            "Fethiye",
+            "Seydikemer"
+        ]
+    },
+    "Ortaca": {
+        "Ilceler": [
+            "Ortaca",
+            "Dalaman"
+        ]
+    },
+    "Gaziantep": {
+        "Ilceler": [
+            "Gaziantep",
+            "Oğuzeli",
+            "Şahinbey",
+            "Şehitkamil",
+            "Yavuzeli"
+        ]
+    },
+    "Araban": {
+        "Ilceler": [
+            "Araban"
+        ]
+    },
+    "Nurdağı": {
+        "Ilceler": [
+            "Nurdağı"
+        ]
+    },
+    "Gebze": {
+        "Ilceler": [
+            "Gebze",
+            "Çayırova",
+            "Darıca",
+            "Dilovası"
+        ]
+    },
+    "Giresun": {
+        "Ilceler": [
+            "Giresun",
+            "Keşap"
+        ]
+    },
+    "Bulancak": {
+        "Ilceler": [
+            "Bulancak",
+            "Piraziz"
+        ]
+    },
+    "Dereli": {
+        "Ilceler": [
+            "Dereli"
+        ]
+    },
+    "Espiye": {
+        "Ilceler": [
+            "Espiye",
+            "Yağlıdere"
+        ]
+    },
+    "Görele": {
+        "Ilceler": [
+            "Görele",
+            "Çanakçı",
+            "Eynesil"
+        ]
+    },
+    "Tirebolu": {
+        "Ilceler": [
+            "Tirebolu",
+            "Doğankent",
+            "Güce"
+        ]
+    },
+    "Gümüşhane": {
+        "Ilceler": [
+            "Gümüşhane"
+        ]
+    },
+    "Kelkit": {
+        "Ilceler": [
+            "Kelkit",
+            "Köse"
+        ]
+    },
+    "Şiran": {
+        "Ilceler": [
+            "Şiran"
+        ]
+    },
+    "Torul": {
+        "Ilceler": [
+            "Torul",
+            "Kürtün"
+        ]
+    },
+    "Hakkâri": {
+        "Ilceler": [
+            "Hakkâri"
+        ]
+    },
+    "Çukurca": {
+        "Ilceler": [
+            "Çukurca"
+        ]
+    },
+    "Hatay": {
+        "Ilceler": [
+            "Hatay",
+            "Antakya",
+            "Defne"
+        ]
+    },
+    "Altınözü": {
+        "Ilceler": [
+            "Altınözü"
+        ]
+    },
+    "Samandağ": {
+        "Ilceler": [
+            "Samandağ"
+        ]
+    },
+    "Yayladağı": {
+        "Ilceler": [
+            "Yayladağı"
+        ]
+    },
+    "Reyhanlı": {
+        "Ilceler": [
+            "Kumlu",
+            "Reyhanlı"
+        ]
+    },
+    "Hınıs": {
+        "Ilceler": [
+            "Hınıs",
+            "Karaçoban"
+        ]
+    },
+    "Tekman": {
+        "Ilceler": [
+            "Tekman"
+        ]
+    },
+    "Iğdır": {
+        "Ilceler": [
+            "Iğdır",
+            "Karakoyunlu"
+        ]
+    },
+    "Aralık": {
+        "Ilceler": [
+            "Aralık"
+        ]
+    },
+    "Tuzluca": {
+        "Ilceler": [
+            "Tuzluca"
+        ]
+    },
+    "Isparta": {
+        "Ilceler": [
+            "Isparta",
+            "Atabey",
+            "Gönen (Isparta)"
+        ]
+    },
+    "Eğirdir": {
+        "Ilceler": [
+            "Eğirdir",
+            "Aksu"
+        ]
+    },
+    "Keçiborlu": {
+        "Ilceler": [
+            "Keçiborlu",
+            "Uluborlu"
+        ]
+    },
+    "Senirkent": {
+        "Ilceler": [
+            "Senirkent"
+        ]
+    },
+    "Sütçüler": {
+        "Ilceler": [
+            "Sütçüler"
+        ]
+    },
+    "İnebolu": {
+        "Ilceler": [
+            "İnebolu",
+            "Abana",
+            "Bozkurt (İnebolu)",
+            "Çatalzeytin",
+            "Doğanyurt"
+        ]
+    },
+    "Cide": {
+        "Ilceler": [
+            "Cide",
+            "Şenpazar"
+        ]
+    },
+    "Küre": {
+        "Ilceler": [
+            "Küre",
+            "Ağlı"
+        ]
+    },
+    "İnegöl": {
+        "Ilceler": [
+            "İnegöl"
+        ]
+    },
+    "İznik": {
+        "Ilceler": [
+            "İznik"
+        ]
+    },
+    "Yenişehir": {
+        "Ilceler": [
+            "Yenişehir"
+        ]
+    },
+    "İskenderun": {
+        "Ilceler": [
+            "İskenderun",
+            "Arsuz",
+            "Belen"
+        ]
+    },
+    "Dörtyol": {
+        "Ilceler": [
+            "Dörtyol",
+            "Payas"
+        ]
+    },
+    "Erzin": {
+        "Ilceler": [
+            "Erzin"
+        ]
+    },
+    "İstanbul": {
+        "Ilceler": [
+            "İstanbul",
+            "Bayrampaşa",
+            "Beşiktaş",
+            "Beyoğlu",
+            "Eyüp",
+            "Fatih",
+            "Kağıthane",
+            "Sarıyer",
+            "Şişli"
+        ]
+    },
+    "Gaziosmanpaşa": {
+        "Ilceler": [
+            "Gaziosmanpaşa",
+            "Arnavutköy",
+            "Sultangazi"
+        ]
+    },
+    "İstanbul Anadolu": {
+        "Ilceler": [
+            "İstanbul Anadolu",
+            "Ataşehir",
+            "Çekmeköy",
+            "Kadıköy",
+            "Kartal",
+            "Maltepe",
+            "Pendik",
+            "Sancaktepe",
+            "Sultanbeyli",
+            "Tuzla",
+            "Ümraniye",
+            "Üsküdar"
+        ]
+    },
+    "Adalar": {
+        "Ilceler": [
+            "Adalar"
+        ]
+    },
+    "Beykoz": {
+        "Ilceler": [
+            "Beykoz"
+        ]
+    },
+    "Şile": {
+        "Ilceler": [
+            "Şile"
+        ]
+    },
+    "İzmir": {
+        "Ilceler": [
+            "İzmir",
+            "Balçova",
+            "Bayraklı",
+            "Bornova",
+            "Buca",
+            "Gaziemir",
+            "Güzelbahçe",
+            "Karabağlar",
+            "Konak",
+            "Narlıdere"
+        ]
+    },
+    "Çeşme": {
+        "Ilceler": [
+            "Çeşme"
+        ]
+    },
+    "Karaburun": {
+        "Ilceler": [
+            "Karaburun"
+        ]
+    },
+    "Kemalpaşa": {
+        "Ilceler": [
+            "Kemalpaşa"
+        ]
+    },
+    "Menderes": {
+        "Ilceler": [
+            "Menderes"
+        ]
+    },
+    "Seferihisar": {
+        "Ilceler": [
+            "Seferihisar"
+        ]
+    },
+    "Selçuk": {
+        "Ilceler": [
+            "Selçuk"
+        ]
+    },
+    "Torbalı": {
+        "Ilceler": [
+            "Torbalı"
+        ]
+    },
+    "Urla": {
+        "Ilceler": [
+            "Urla"
+        ]
+    },
+    "Kahramanmaraş": {
+        "Ilceler": [
+            "Kahramanmaraş",
+            "Dulkadiroğlu",
+            "Onikişubat"
+        ]
+    },
+    "Andırın": {
+        "Ilceler": [
+            "Andırın"
+        ]
+    },
+    "Pazarcık": {
+        "Ilceler": [
+            "Pazarcık",
+            "Çağlıyancerit"
+        ]
+    },
+    "Türkoğlu": {
+        "Ilceler": [
+            "Türkoğlu"
+        ]
+    },
+    "Karabük": {
+        "Ilceler": [
+            "Karabük",
+            "Ovacık (Karabük)"
+        ]
+    },
+    "Çerkeş": {
+        "Ilceler": [
+            "Çerkeş"
+        ]
+    },
+    "Eskipazar": {
+        "Ilceler": [
+            "Eskipazar"
+        ]
+    },
+    "Safranbolu": {
+        "Ilceler": [
+            "Safranbolu",
+            "Eflâni"
+        ]
+    },
+    "Yenice (Karabük)": {
+        "Ilceler": [
+            "Yenice (Karabük)"
+        ]
+    },
+    "Karaman": {
+        "Ilceler": [
+            "Karaman",
+            "Ayrancı",
+            "Kazımkarabekir"
+        ]
+    },
+    "Kars": {
+        "Ilceler": [
+            "Kars",
+            "Akyaka",
+            "Susuz"
+        ]
+    },
+    "Arpaçay": {
+        "Ilceler": [
+            "Arpaçay"
+        ]
+    },
+    "Digor": {
+        "Ilceler": [
+            "Digor"
+        ]
+    },
+    "Kağızman": {
+        "Ilceler": [
+            "Kağızman"
+        ]
+    },
+    "Sarıkamış": {
+        "Ilceler": [
+            "Sarıkamış"
+        ]
+    },
+    "Selim": {
+        "Ilceler": [
+            "Selim"
+        ]
+    },
+    "Karşıyaka": {
+        "Ilceler": [
+            "Karşıyaka",
+            "Çiğli"
+        ]
+    },
+    "Aliağa": {
+        "Ilceler": [
+            "Aliağa"
+        ]
+    },
+    "Foça": {
+        "Ilceler": [
+            "Foça"
+        ]
+    },
+    "Menemen": {
+        "Ilceler": [
+            "Menemen"
+        ]
+    },
+    "Kastamonu": {
+        "Ilceler": [
+            "Kastamonu",
+            "Daday",
+            "İhsangazi"
+        ]
+    },
+    "Araç": {
+        "Ilceler": [
+            "Araç"
+        ]
+    },
+    "Azdavay": {
+        "Ilceler": [
+            "Azdavay",
+            "Pınarbaşı\n(Kastamonu)"
+        ]
+    },
+    "Devrekâni": {
+        "Ilceler": [
+            "Devrekâni",
+            "Seydiler"
+        ]
+    },
+    "Taşköprü": {
+        "Ilceler": [
+            "Taşköprü",
+            "Hanönü"
+        ]
+    },
+    "Tosya": {
+        "Ilceler": [
+            "Tosya"
+        ]
+    },
+    "Kayseri": {
+        "Ilceler": [
+            "Kayseri",
+            "Felâhiye",
+            "Hacılar",
+            "Kocasinan",
+            "Melikgazi",
+            "Talas"
+        ]
+    },
+    "Bünyan": {
+        "Ilceler": [
+            "Bünyan"
+        ]
+    },
+    "Develi": {
+        "Ilceler": [
+            "Develi"
+        ]
+    },
+    "İncesu": {
+        "Ilceler": [
+            "İncesu"
+        ]
+    },
+    "Pınarbaşı": {
+        "Ilceler": [
+            "Pınarbaşı"
+        ]
+    },
+    "Sarıoğlan": {
+        "Ilceler": [
+            "Sarıoğlan",
+            "Akkışla"
+        ]
+    },
+    "Sarız": {
+        "Ilceler": [
+            "Sarız"
+        ]
+    },
+    "Tomarza": {
+        "Ilceler": [
+            "Tomarza"
+        ]
+    },
+    "Yahyalı": {
+        "Ilceler": [
+            "Yahyalı"
+        ]
+    },
+    "Yeşilhisar": {
+        "Ilceler": [
+            "Yeşilhisar"
+        ]
+    },
+    "Felâhiye": {
+        "Ilceler": [
+            "Özvatan"
+        ]
+    },
+    "Kırıkhan": {
+        "Ilceler": [
+            "Kırıkhan"
+        ]
+    },
+    "Hassa": {
+        "Ilceler": [
+            "Hassa"
+        ]
+    },
+    "Kırıkkale": {
+        "Ilceler": [
+            "Kırıkkale",
+            "Bahşili",
+            "Balışeyh",
+            "Karakeçili",
+            "Yahşihan"
+        ]
+    },
+    "Delice": {
+        "Ilceler": [
+            "Delice"
+        ]
+    },
+    "Keskin": {
+        "Ilceler": [
+            "Keskin",
+            "Çelebi"
+        ]
+    },
+    "Sulakyurt": {
+        "Ilceler": [
+            "Sulakyurt"
+        ]
+    },
+    "Kırklareli": {
+        "Ilceler": [
+            "Kırklareli",
+            "Kofçaz"
+        ]
+    },
+    "Babaeski": {
+        "Ilceler": [
+            "Babaeski",
+            "Pehlivanköy"
+        ]
+    },
+    "Demirköy": {
+        "Ilceler": [
+            "Demirköy"
+        ]
+    },
+    "Lüleburgaz": {
+        "Ilceler": [
+            "Lüleburgaz"
+        ]
+    },
+    "Pınarhisar": {
+        "Ilceler": [
+            "Pınarhisar"
+        ]
+    },
+    "Vize": {
+        "Ilceler": [
+            "Vize"
+        ]
+    },
+    "Kırşehir": {
+        "Ilceler": [
+            "Kırşehir",
+            "Akpınar",
+            "Boztepe"
+        ]
+    },
+    "Kaman": {
+        "Ilceler": [
+            "Kaman"
+        ]
+    },
+    "Mucur": {
+        "Ilceler": [
+            "Mucur"
+        ]
+    },
+    "Kilis": {
+        "Ilceler": [
+            "Kilis",
+            "Elbeyli",
+            "Musabeyli",
+            "Polateli"
+        ]
+    },
+    "İslâhiye": {
+        "Ilceler": [
+            "İslâhiye"
+        ]
+    },
+    "Kocaeli": {
+        "Ilceler": [
+            "Kocaeli",
+            "Başiskele",
+            "Derince",
+            "İzmit",
+            "Kartepe"
+        ]
+    },
+    "Gölcük": {
+        "Ilceler": [
+            "Gölcük"
+        ]
+    },
+    "Kandıra": {
+        "Ilceler": [
+            "Kandıra"
+        ]
+    },
+    "Karamürsel": {
+        "Ilceler": [
+            "Karamürsel"
+        ]
+    },
+    "Körfez": {
+        "Ilceler": [
+            "Körfez"
+        ]
+    },
+    "Konya": {
+        "Ilceler": [
+            "Konya",
+            "Akören",
+            "Altınekin",
+            "Derbent",
+            "Karatay",
+            "Meram",
+            "Selçuklu"
+        ]
+    },
+    "Cihanbeyli": {
+        "Ilceler": [
+            "Cihanbeyli"
+        ]
+    },
+    "Çumra": {
+        "Ilceler": [
+            "Çumra",
+            "Güneysınır"
+        ]
+    },
+    "Hadim": {
+        "Ilceler": [
+            "Hadim",
+            "Taşkent"
+        ]
+    },
+    "Kadınhanı": {
+        "Ilceler": [
+            "Kadınhanı"
+        ]
+    },
+    "Kulu": {
+        "Ilceler": [
+            "Kulu"
+        ]
+    },
+    "Sarayönü": {
+        "Ilceler": [
+            "Sarayönü"
+        ]
+    },
+    "Kozan": {
+        "Ilceler": [
+            "Kozan"
+        ]
+    },
+    "Aladağ": {
+        "Ilceler": [
+            "Aladağ"
+        ]
+    },
+    "Feke": {
+        "Ilceler": [
+            "Feke",
+            "Saimbeyli"
+        ]
+    },
+    "İmamoğlu": {
+        "Ilceler": [
+            "İmamoğlu"
+        ]
+    },
+    "Tufanbeyli": {
+        "Ilceler": [
+            "Tufanbeyli"
+        ]
+    },
+    "Kütahya": {
+        "Ilceler": [
+            "Kütahya",
+            "Aslanapa"
+        ]
+    },
+    "Altıntaş": {
+        "Ilceler": [
+            "Altıntaş",
+            "Dumlupınar"
+        ]
+    },
+    "Gediz": {
+        "Ilceler": [
+            "Gediz",
+            "Çavdarhisar",
+            "Şaphane"
+        ]
+    },
+    "Malatya": {
+        "Ilceler": [
+            "Malatya",
+            "Arguvan",
+            "Battalgazi",
+            "Kale (Malatya)",
+            "Yazıhan",
+            "Yeşilyurt (Malatya)"
+        ]
+    },
+    "Akçadağ": {
+        "Ilceler": [
+            "Akçadağ"
+        ]
+    },
+    "Arapgir": {
+        "Ilceler": [
+            "Arapgir"
+        ]
+    },
+    "Darende": {
+        "Ilceler": [
+            "Darende"
+        ]
+    },
+    "Doğanşehir": {
+        "Ilceler": [
+            "Doğanşehir"
+        ]
+    },
+    "Hekimhan": {
+        "Ilceler": [
+            "Hekimhan",
+            "Kuluncak"
+        ]
+    },
+    "Pütürge": {
+        "Ilceler": [
+            "Pütürge",
+            "Doğanyol"
+        ]
+    },
+    "Manavgat": {
+        "Ilceler": [
+            "Manavgat"
+        ]
+    },
+    "Akseki": {
+        "Ilceler": [
+            "Akseki",
+            "İbradı"
+        ]
+    },
+    "Gündoğmuş": {
+        "Ilceler": [
+            "Gündoğmuş"
+        ]
+    },
+    "Serik": {
+        "Ilceler": [
+            "Serik"
+        ]
+    },
+    "Manisa": {
+        "Ilceler": [
+            "Manisa",
+            "Şehzadeler",
+            "Yunusemre"
+        ]
+    },
+    "Saruhanlı": {
+        "Ilceler": [
+            "Saruhanlı"
+        ]
+    },
+    "Turgutlu": {
+        "Ilceler": [
+            "Ahmetli",
+            "Turgutlu"
+        ]
+    },
+    "Mardin": {
+        "Ilceler": [
+            "Mardin",
+            "Artuklu",
+            "Yeşilli"
+        ]
+    },
+    "Derik": {
+        "Ilceler": [
+            "Derik"
+        ]
+    },
+    "Kızıltepe": {
+        "Ilceler": [
+            "Kızıltepe"
+        ]
+    },
+    "Mazıdağı": {
+        "Ilceler": [
+            "Mazıdağı"
+        ]
+    },
+    "Nusaybin": {
+        "Ilceler": [
+            "Nusaybin"
+        ]
+    },
+    "Ömerli": {
+        "Ilceler": [
+            "Ömerli"
+        ]
+    },
+    "Savur": {
+        "Ilceler": [
+            "Savur"
+        ]
+    },
+    "Mersin": {
+        "Ilceler": [
+            "Mersin",
+            "Akdeniz",
+            "Mezitli",
+            "Toroslar",
+            "Yenişehir (Mersin)"
+        ]
+    },
+    "Erdemli": {
+        "Ilceler": [
+            "Erdemli"
+        ]
+    },
+    "Midyat": {
+        "Ilceler": [
+            "Midyat"
+        ]
+    },
+    "Dargeçit": {
+        "Ilceler": [
+            "Dargeçit"
+        ]
+    },
+    "Gercüş": {
+        "Ilceler": [
+            "Gercüş"
+        ]
+    },
+    "İdil": {
+        "Ilceler": [
+            "İdil"
+        ]
+    },
+    "Muğla": {
+        "Ilceler": [
+            "Muğla",
+            "Menteşe",
+            "Ula"
+        ]
+    },
+    "Datça": {
+        "Ilceler": [
+            "Datça"
+        ]
+    },
+    "Köyceğiz": {
+        "Ilceler": [
+            "Köyceğiz"
+        ]
+    },
+    "Marmaris": {
+        "Ilceler": [
+            "Marmaris"
+        ]
+    },
+    "Yatağan": {
+        "Ilceler": [
+            "Yatağan",
+            "Kavaklıdere"
+        ]
+    },
+    "Muş": {
+        "Ilceler": [
+            "Muş",
+            "Hasköy",
+            "Korkut"
+        ]
+    },
+    "Varto": {
+        "Ilceler": [
+            "Varto"
+        ]
+    },
+    "Nazilli": {
+        "Ilceler": [
+            "Nazilli",
+            "Kuyucak",
+            "Sultanhisar",
+            "Yenipazar (Aydın)"
+        ]
+    },
+    "Bozdoğan": {
+        "Ilceler": [
+            "Bozdoğan"
+        ]
+    },
+    "Karacasu": {
+        "Ilceler": [
+            "Karacasu"
+        ]
+    },
+    "Kuyucak": {
+        "Ilceler": [
+            "Buharkent"
+        ]
+    },
+    "Nevşehir": {
+        "Ilceler": [
+            "Nevşehir",
+            "Acıgöl"
+        ]
+    },
+    "Avanos": {
+        "Ilceler": [
+            "Avanos"
+        ]
+    },
+    "Derinkuyu": {
+        "Ilceler": [
+            "Derinkuyu"
+        ]
+    },
+    "Gülşehir": {
+        "Ilceler": [
+            "Gülşehir"
+        ]
+    },
+    "Hacıbektaş": {
+        "Ilceler": [
+            "Hacıbektaş"
+        ]
+    },
+    "Kozaklı": {
+        "Ilceler": [
+            "Kozaklı"
+        ]
+    },
+    "Ürgüp": {
+        "Ilceler": [
+            "Ürgüp"
+        ]
+    },
+    "Niğde": {
+        "Ilceler": [
+            "Niğde"
+        ]
+    },
+    "Bor": {
+        "Ilceler": [
+            "Bor",
+            "Altunhisar"
+        ]
+    },
+    "Çamardı": {
+        "Ilceler": [
+            "Çamardı"
+        ]
+    },
+    "Çiftlik": {
+        "Ilceler": [
+            "Çiftlik"
+        ]
+    },
+    "Ulukışla": {
+        "Ilceler": [
+            "Ulukışla"
+        ]
+    },
+    "Nizip": {
+        "Ilceler": [
+            "Nizip",
+            "Karkamış"
+        ]
+    },
+    "Oltu": {
+        "Ilceler": [
+            "Oltu",
+            "Narman",
+            "Olur"
+        ]
+    },
+    "Şenkaya": {
+        "Ilceler": [
+            "Şenkaya"
+        ]
+    },
+    "Ordu": {
+        "Ilceler": [
+            "Ordu",
+            "Altınordu",
+            "Gülyalı",
+            "Kabadüz",
+            "Ulubey (Ordu)"
+        ]
+    },
+    "Gölköy": {
+        "Ilceler": [
+            "Gölköy"
+        ]
+    },
+    "Gürgentepe": {
+        "Ilceler": [
+            "Gürgentepe"
+        ]
+    },
+    "Mesudiye": {
+        "Ilceler": [
+            "Mesudiye"
+        ]
+    },
+    "Perşembe": {
+        "Ilceler": [
+            "Perşembe"
+        ]
+    },
+    "Osmaniye": {
+        "Ilceler": [
+            "Osmaniye",
+            "Hasanbeyli",
+            "Toprakkale"
+        ]
+    },
+    "Bahçe": {
+        "Ilceler": [
+            "Bahçe"
+        ]
+    },
+    "Düziçi": {
+        "Ilceler": [
+            "Düziçi"
+        ]
+    },
+    "Kadirli": {
+        "Ilceler": [
+            "Kadirli",
+            "Sumbas"
+        ]
+    },
+    "Ödemiş": {
+        "Ilceler": [
+            "Ödemiş",
+            "Beydağ"
+        ]
+    },
+    "Bayındır": {
+        "Ilceler": [
+            "Bayındır"
+        ]
+    },
+    "Kiraz": {
+        "Ilceler": [
+            "Kiraz"
+        ]
+    },
+    "Tire": {
+        "Ilceler": [
+            "Tire"
+        ]
+    },
+    "Patnos": {
+        "Ilceler": [
+            "Patnos"
+        ]
+    },
+    "Bulanık": {
+        "Ilceler": [
+            "Bulanık"
+        ]
+    },
+    "Malazgirt": {
+        "Ilceler": [
+            "Malazgirt"
+        ]
+    },
+    "Tutak": {
+        "Ilceler": [
+            "Tutak"
+        ]
+    },
+    "Rize": {
+        "Ilceler": [
+            "Rize",
+            "Derepazarı",
+            "Güneysu",
+            "İyidere"
+        ]
+    },
+    "Çayeli": {
+        "Ilceler": [
+            "Çayeli"
+        ]
+    },
+    "Kalkandere": {
+        "Ilceler": [
+            "Kalkandere",
+            "İkizdere"
+        ]
+    },
+    "Pazar": {
+        "Ilceler": [
+            "Pazar",
+            "Ardeşen",
+            "Çamlıhemşin",
+            "Fındıklı",
+            "Hemşin"
+        ]
+    },
+    "Sakarya": {
+        "Ilceler": [
+            "Sakarya",
+            "Adapazarı",
+            "Arifiye",
+            "Erenler",
+            "Serdivan",
+            "Söğütlü"
+        ]
+    },
+    "Akyazı": {
+        "Ilceler": [
+            "Akyazı",
+            "Karapürçek"
+        ]
+    },
+    "Ferizli": {
+        "Ilceler": [
+            "Ferizli"
+        ]
+    },
+    "Geyve": {
+        "Ilceler": [
+            "Geyve",
+            "Taraklı"
+        ]
+    },
+    "Hendek": {
+        "Ilceler": [
+            "Hendek"
+        ]
+    },
+    "Karasu": {
+        "Ilceler": [
+            "Karasu"
+        ]
+    },
+    "Kaynarca": {
+        "Ilceler": [
+            "Kaynarca"
+        ]
+    },
+    "Kocaali": {
+        "Ilceler": [
+            "Kocaali"
+        ]
+    },
+    "Pamukova": {
+        "Ilceler": [
+            "Pamukova"
+        ]
+    },
+    "Sapanca": {
+        "Ilceler": [
+            "Sapanca"
+        ]
+    },
+    "Salihli": {
+        "Ilceler": [
+            "Salihli",
+            "Köprübaşı (Salihli)"
+        ]
+    },
+    "Demirci": {
+        "Ilceler": [
+            "Demirci"
+        ]
+    },
+    "Kula": {
+        "Ilceler": [
+            "Kula"
+        ]
+    },
+    "Selendi": {
+        "Ilceler": [
+            "Selendi"
+        ]
+    },
+    "Samsun": {
+        "Ilceler": [
+            "Samsun",
+            "Atakum",
+            "Canik",
+            "İlkadım",
+            "Tekkeköy"
+        ]
+    },
+    "Kavak": {
+        "Ilceler": [
+            "Kavak",
+            "Asarcık"
+        ]
+    },
+    "Seydişehir": {
+        "Ilceler": [
+            "Seydişehir",
+            "Yalıhüyük"
+        ]
+    },
+    "Beyşehir": {
+        "Ilceler": [
+            "Beyşehir",
+            "Derebucak",
+            "Hüyük"
+        ]
+    },
+    "Bozkır": {
+        "Ilceler": [
+            "Bozkır",
+            "Ahırlı"
+        ]
+    },
+    "Siirt": {
+        "Ilceler": [
+            "Siirt",
+            "Aydınlar"
+        ]
+    },
+    "Baykan": {
+        "Ilceler": [
+            "Baykan"
+        ]
+    },
+    "Eruh": {
+        "Ilceler": [
+            "Eruh"
+        ]
+    },
+    "Kurtalan": {
+        "Ilceler": [
+            "Kurtalan"
+        ]
+    },
+    "Pervari": {
+        "Ilceler": [
+            "Pervari"
+        ]
+    },
+    "Şirvan": {
+        "Ilceler": [
+            "Şirvan"
+        ]
+    },
+    "Silifke": {
+        "Ilceler": [
+            "Silifke"
+        ]
+    },
+    "Anamur": {
+        "Ilceler": [
+            "Anamur",
+            "Bozyazı"
+        ]
+    },
+    "Aydıncık": {
+        "Ilceler": [
+            "Aydıncık"
+        ]
+    },
+    "Gülnar": {
+        "Ilceler": [
+            "Gülnar"
+        ]
+    },
+    "Mut": {
+        "Ilceler": [
+            "Mut"
+        ]
+    },
+    "Silivri": {
+        "Ilceler": [
+            "Silivri"
+        ]
+    },
+    "Çatalca": {
+        "Ilceler": [
+            "Çatalca"
+        ]
+    },
+    "Marmaraereğlisi": {
+        "Ilceler": [
+            "Marmaraereğlisi"
+        ]
+    },
+    "Sinop": {
+        "Ilceler": [
+            "Sinop",
+            "Erfelek"
+        ]
+    },
+    "Ayancık": {
+        "Ilceler": [
+            "Ayancık"
+        ]
+    },
+    "Gerze": {
+        "Ilceler": [
+            "Gerze",
+            "Dikmen"
+        ]
+    },
+    "Türkeli": {
+        "Ilceler": [
+            "Türkeli"
+        ]
+    },
+    "Sivas": {
+        "Ilceler": [
+            "Sivas",
+            "Hafik",
+            "Ulaş"
+        ]
+    },
+    "Divriği": {
+        "Ilceler": [
+            "Divriği"
+        ]
+    },
+    "Gemerek": {
+        "Ilceler": [
+            "Gemerek"
+        ]
+    },
+    "Gürün": {
+        "Ilceler": [
+            "Gürün"
+        ]
+    },
+    "İmranlı": {
+        "Ilceler": [
+            "İmranlı"
+        ]
+    },
+    "Kangal": {
+        "Ilceler": [
+            "Kangal"
+        ]
+    },
+    "Şarkışla": {
+        "Ilceler": [
+            "Şarkışla",
+            "Altınyayla (Sivas)"
+        ]
+    },
+    "Yıldızeli": {
+        "Ilceler": [
+            "Yıldızeli"
+        ]
+    },
+    "Zara": {
+        "Ilceler": [
+            "Zara"
+        ]
+    },
+    "Hafik": {
+        "Ilceler": [
+            "Doğanşar"
+        ]
+    },
+    "Siverek": {
+        "Ilceler": [
+            "Siverek"
+        ]
+    },
+    "Hilvan": {
+        "Ilceler": [
+            "Hilvan"
+        ]
+    },
+    "Söke": {
+        "Ilceler": [
+            "Söke"
+        ]
+    },
+    "Didim": {
+        "Ilceler": [
+            "Didim"
+        ]
+    },
+    "Kuşadası": {
+        "Ilceler": [
+            "Kuşadası"
+        ]
+    },
+    "Sungurlu": {
+        "Ilceler": [
+            "Sungurlu",
+            "Boğazkale"
+        ]
+    },
+    "Alaca": {
+        "Ilceler": [
+            "Alaca"
+        ]
+    },
+    "Şanlıurfa": {
+        "Ilceler": [
+            "Şanlıurfa",
+            "Eyyübiye",
+            "Haliliye",
+            "Karaköprü"
+        ]
+    },
+    "Akçakale": {
+        "Ilceler": [
+            "Akçakale"
+        ]
+    },
+    "Birecik": {
+        "Ilceler": [
+            "Birecik"
+        ]
+    },
+    "Bozova": {
+        "Ilceler": [
+            "Bozova"
+        ]
+    },
+    "Ceylânpınar": {
+        "Ilceler": [
+            "Ceylânpınar"
+        ]
+    },
+    "Halfeti": {
+        "Ilceler": [
+            "Halfeti"
+        ]
+    },
+    "Harran": {
+        "Ilceler": [
+            "Harran"
+        ]
+    },
+    "Suruç": {
+        "Ilceler": [
+            "Suruç"
+        ]
+    },
+    "Viranşehir": {
+        "Ilceler": [
+            "Viranşehir"
+        ]
+    },
+    "Şebinkarahisar": {
+        "Ilceler": [
+            "Şebinkarahisar"
+        ]
+    },
+    "Alucra": {
+        "Ilceler": [
+            "Alucra",
+            "Çamoluk"
+        ]
+    },
+    "Koyulhisar": {
+        "Ilceler": [
+            "Koyulhisar"
+        ]
+    },
+    "Suşehri": {
+        "Ilceler": [
+            "Suşehri",
+            "Akıncılar",
+            "Gölova"
+        ]
+    },
+    "Şırnak": {
+        "Ilceler": [
+            "Şırnak"
+        ]
+    },
+    "Beytüşşebap": {
+        "Ilceler": [
+            "Beytüşşebap"
+        ]
+    },
+    "Uludere": {
+        "Ilceler": [
+            "Uludere"
+        ]
+    },
+    "Tarsus": {
+        "Ilceler": [
+            "Tarsus",
+            "Çamlıyayla"
+        ]
+    },
+    "Pozantı": {
+        "Ilceler": [
+            "Pozantı"
+        ]
+    },
+    "Tavşanlı": {
+        "Ilceler": [
+            "Tavşanlı",
+            "Domaniç",
+            "Harmancık"
+        ]
+    },
+    "Emet": {
+        "Ilceler": [
+            "Emet",
+            "Hisarcık"
+        ]
+    },
+    "Tekirdağ": {
+        "Ilceler": [
+            "Tekirdağ",
+            "Süleymanpaşa"
+        ]
+    },
+    "Hayrabolu": {
+        "Ilceler": [
+            "Hayrabolu"
+        ]
+    },
+    "Malkara": {
+        "Ilceler": [
+            "Malkara"
+        ]
+    },
+    "Muratlı": {
+        "Ilceler": [
+            "Muratlı"
+        ]
+    },
+    "Şarköy": {
+        "Ilceler": [
+            "Şarköy"
+        ]
+    },
+    "Tokat": {
+        "Ilceler": [
+            "Tokat",
+            "Pazar (Tokat)"
+        ]
+    },
+    "Almus": {
+        "Ilceler": [
+            "Almus"
+        ]
+    },
+    "Artova": {
+        "Ilceler": [
+            "Artova",
+            "Sulusaray",
+            "Yeşilyurt (Tokat)"
+        ]
+    },
+    "Erbaa": {
+        "Ilceler": [
+            "Erbaa"
+        ]
+    },
+    "Niksar": {
+        "Ilceler": [
+            "Niksar",
+            "Başçiftlik"
+        ]
+    },
+    "Reşadiye": {
+        "Ilceler": [
+            "Reşadiye"
+        ]
+    },
+    "Trabzon": {
+        "Ilceler": [
+            "Trabzon",
+            "Arsin",
+            "Ortahisar",
+            "Yomra"
+        ]
+    },
+    "Akçaabat": {
+        "Ilceler": [
+            "Akçaabat",
+            "Düzköy"
+        ]
+    },
+    "Araklı": {
+        "Ilceler": [
+            "Araklı"
+        ]
+    },
+    "Çaykara": {
+        "Ilceler": [
+            "Çaykara"
+        ]
+    },
+    "Maçka": {
+        "Ilceler": [
+            "Maçka"
+        ]
+    },
+    "Of": {
+        "Ilceler": [
+            "Of",
+            "Hayrat"
+        ]
+    },
+    "Sürmene": {
+        "Ilceler": [
+            "Sürmene",
+            "Dernekpazarı",
+            "Köprübaşı (Trabzon)"
+        ]
+    },
+    "Tonya": {
+        "Ilceler": [
+            "Tonya"
+        ]
+    },
+    "Vakfıkebir": {
+        "Ilceler": [
+            "Vakfıkebir",
+            "Beşikdüzü",
+            "Çarşıbaşı",
+            "Şalpazarı"
+        ]
+    },
+    "Tunceli": {
+        "Ilceler": [
+            "Tunceli"
+        ]
+    },
+    "Hozat": {
+        "Ilceler": [
+            "Hozat"
+        ]
+    },
+    "Mazgirt": {
+        "Ilceler": [
+            "Mazgirt"
+        ]
+    },
+    "Nazımiye": {
+        "Ilceler": [
+            "Nazımiye"
+        ]
+    },
+    "Ovacık (Tunceli)": {
+        "Ilceler": [
+            "Ovacık (Tunceli)"
+        ]
+    },
+    "Pertek": {
+        "Ilceler": [
+            "Pertek"
+        ]
+    },
+    "Pülümür": {
+        "Ilceler": [
+            "Pülümür"
+        ]
+    },
+    "Uşak": {
+        "Ilceler": [
+            "Uşak",
+            "Ulubey (Uşak)"
+        ]
+    },
+    "Banaz": {
+        "Ilceler": [
+            "Banaz"
+        ]
+    },
+    "Eşme": {
+        "Ilceler": [
+            "Eşme"
+        ]
+    },
+    "Simav": {
+        "Ilceler": [
+            "Simav",
+            "Pazarlar"
+        ]
+    },
+    "Sivaslı": {
+        "Ilceler": [
+            "Sivaslı",
+            "Karahallı"
+        ]
+    },
+    "Ünye": {
+        "Ilceler": [
+            "Ünye",
+            "Çaybaşı",
+            "İkizce"
+        ]
+    },
+    "Akkuş": {
+        "Ilceler": [
+            "Akkuş"
+        ]
+    },
+    "Aybastı": {
+        "Ilceler": [
+            "Aybastı",
+            "Kabataş"
+        ]
+    },
+    "Fatsa": {
+        "Ilceler": [
+            "Fatsa",
+            "Çamaş",
+            "Çatalpınar"
+        ]
+    },
+    "Korgan": {
+        "Ilceler": [
+            "Korgan"
+        ]
+    },
+    "Kumru": {
+        "Ilceler": [
+            "Kumru"
+        ]
+    },
+    "Van": {
+        "Ilceler": [
+            "Van",
+            "Edremit (Van)",
+            "İpekyolu",
+            "Tuşba"
+        ]
+    },
+    "Bahçesaray": {
+        "Ilceler": [
+            "Bahçesaray"
+        ]
+    },
+    "Başkale": {
+        "Ilceler": [
+            "Başkale"
+        ]
+    },
+    "Çatak": {
+        "Ilceler": [
+            "Çatak"
+        ]
+    },
+    "Gevaş": {
+        "Ilceler": [
+            "Gevaş"
+        ]
+    },
+    "Gürpınar": {
+        "Ilceler": [
+            "Gürpınar"
+        ]
+    },
+    "Özalp": {
+        "Ilceler": [
+            "Özalp"
+        ]
+    },
+    "Saray (Van)": {
+        "Ilceler": [
+            "Saray (Van)"
+        ]
+    },
+    "Vezirköprü": {
+        "Ilceler": [
+            "Vezirköprü"
+        ]
+    },
+    "Havza": {
+        "Ilceler": [
+            "Havza"
+        ]
+    },
+    "Lâdik": {
+        "Ilceler": [
+            "Lâdik"
+        ]
+    },
+    "Yalova": {
+        "Ilceler": [
+            "Yalova",
+            "Altınova",
+            "Çınarcık",
+            "Çiftlikköy",
+            "Termal"
+        ]
+    },
+    "Yalvaç": {
+        "Ilceler": [
+            "Yalvaç",
+            "Gelendost"
+        ]
+    },
+    "Şarkikaraağaç": {
+        "Ilceler": [
+            "Şarkikaraağaç",
+            "Yenişarbademli"
+        ]
+    },
+    "Yozgat": {
+        "Ilceler": [
+            "Yozgat"
+        ]
+    },
+    "Akdağmadeni": {
+        "Ilceler": [
+            "Akdağmadeni",
+            "Saraykent"
+        ]
+    },
+    "Çekerek": {
+        "Ilceler": [
+            "Çekerek",
+            "Aydıncık (Yozgat)",
+            "Kadışehri"
+        ]
+    },
+    "Sorgun": {
+        "Ilceler": [
+            "Sorgun"
+        ]
+    },
+    "Şefaatli": {
+        "Ilceler": [
+            "Şefaatli"
+        ]
+    },
+    "Yerköy": {
+        "Ilceler": [
+            "Yerköy",
+            "Çiçekdağı"
+        ]
+    },
+    "Çiçekdağı": {
+        "Ilceler": [
+            "Akçakent"
+        ]
+    },
+    "Yüksekova": {
+        "Ilceler": [
+            "Yüksekova"
+        ]
+    },
+    "Şemdinli": {
+        "Ilceler": [
+            "Şemdinli"
+        ]
+    },
+    "Zile": {
+        "Ilceler": [
+            "Zile"
+        ]
+    },
+    "Turhal": {
+        "Ilceler": [
+            "Turhal"
+        ]
+    },
+    "Zonguldak": {
+        "Ilceler": [
+            "Zonguldak",
+            "Kilimli",
+            "Kozlu"
+        ]
+    },
+    "Alaplı": {
+        "Ilceler": [
+            "Alaplı"
+        ]
+    },
+    "Çaycuma": {
+        "Ilceler": [
+            "Çaycuma"
+        ]
+    },
+    "Devrek": {
+        "Ilceler": [
+            "Devrek"
+        ]
+    },
+    "Ereğli (Zonguldak)": {
+        "Ilceler": [
+            "Ereğli (Zonguldak)"
+        ]
+    },
+    "Gökçebey": {
+        "Ilceler": [
+            "Gökçebey"
+        ]
+    }
+}
